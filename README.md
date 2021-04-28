@@ -7,11 +7,13 @@
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
- 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
- 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&layout=compact">
-
+ <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+    </p>
 
 **Languages and Tools:** 
 
