@@ -1,6 +1,6 @@
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 
 ## :computer: Technologies I Love
 * Flutter
@@ -18,6 +18,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
   </a>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&layout=compact">
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
