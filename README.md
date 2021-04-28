@@ -7,9 +7,9 @@
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
- <a href="https://github.com/Wadie-ess/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
-  </a>
+ 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
+ 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&layout=compact">
 
 
