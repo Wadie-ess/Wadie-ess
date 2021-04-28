@@ -7,6 +7,10 @@
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
+ <a href="https://github.com/Wadie-ess/handle-path-oz">
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
+  </a>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&layout=compact">
 
 
 **Languages and Tools:** 
@@ -15,10 +19,7 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&show_icons=true&hide_border=true" />
-  </a>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&layout=compact">
+ 
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
