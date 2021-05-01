@@ -15,6 +15,9 @@
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
     </p>
+ <p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
+</p>
 
 **Languages and Tools:** 
 
@@ -48,9 +51,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
-</p>
+
 <h1>FOLLOW ME ON</h1> 
 <p align="center">
 <!-- display the social media buttons in your README -->
