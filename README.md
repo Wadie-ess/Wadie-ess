@@ -69,11 +69,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/wWzX9uB.png
-[2.1]: http://i.imgur.com/fep1WsG.png
-[3.1]: http://i.imgur.com/Vvy3Kru.png 
-[4.1]: http://i.imgur.com/9I6NRUm.png 
-[5.1]: https://i.imgur.com/LoFnaeb.png 
+[1.1]: https://pics.freeicons.io/uploads/icons/png/3848290321556105338-24.png (twitter)
+[2.1]: https://pics.freeicons.io/uploads/icons/png/19042250241579774616-24.png (insta)
+[3.1]: https://pics.freeicons.io/uploads/icons/png/1803389361561032685-24.png (dribble)
+[4.1]: https://pics.freeicons.io/uploads/icons/png/13702699181561032680-24.png (git)
+[5.1]: https://pics.freeicons.io/uploads/icons/png/4957984901556105311-24.png (behance)
 
 
 <!-- icons without padding -->
@@ -84,7 +84,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/
-[2]: http://www.facebook.com/
+[2]: http://www.Instagram.com/
 [3]: https://dribbble.com/wadieess
 [4]: https://github.com/Wadie-ess
 [5]: https://www.behance.net/wadieessendoubi
