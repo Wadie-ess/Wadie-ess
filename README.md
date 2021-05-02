@@ -57,7 +57,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
@@ -84,7 +83,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/
-[2]: http://www.Instagram.com/
+[2]: http://www.instagram.com/
 [3]: https://dribbble.com/wadieess
 [4]: https://github.com/Wadie-ess
 [5]: https://www.behance.net/wadieessendoubi
