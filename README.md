@@ -82,8 +82,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/
-[2]: http://www.instagram.com/
+[1]: https://twitter.com/Wa__Die
+[2]: https://www.instagram.com/wadiee___/
 [3]: https://dribbble.com/wadieess
 [4]: https://github.com/Wadie-ess
 [5]: https://www.behance.net/wadieessendoubi
