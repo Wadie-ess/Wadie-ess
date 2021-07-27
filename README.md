@@ -52,7 +52,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-<h1>FOLLOW ME ON</h1> 
+<h1>YOU CAN FOLLOW ME ON</h1> 
 <p align="center">
 <!-- display the social media buttons in your README -->
 
