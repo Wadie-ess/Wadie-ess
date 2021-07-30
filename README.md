@@ -19,9 +19,12 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
 
 </p>
-<h3> 42 is the answer !! ..</h3> 
- </p>
-<div style="text-align: center">Proudly 1337's and 42Network Student </div>
+<h3> <img height="137px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" /> is the answer !! ..</h3> 
+  <br/>
+  <br/>
+ <p align="center">
+  Proudly 1337's And 42Network Student
+
 </p>
  <p align="center">
   <img alt="ViewCount" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" />
