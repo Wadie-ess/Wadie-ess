@@ -17,9 +17,21 @@
     </p>
  <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
-</p>
 
-**Languages and Tools:** 
+</p>
+<h3> 42 is the answer !! ..</h3> 
+ </p>
+<div style="text-align: center">Proudly 1337's and 42Network Student </div>
+</p>
+ <p align="center">
+  <img alt="ViewCount" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" />
+
+</p>
+  
+
+
+ </p>
+ <h3> Languages and Tools</h3> 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
