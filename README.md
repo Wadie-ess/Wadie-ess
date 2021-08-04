@@ -7,6 +7,8 @@
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
+* UX/UI design 
+
  <br/>
 <h2> 🌀  my github stat <h2>
     <p align="center">
