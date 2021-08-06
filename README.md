@@ -23,15 +23,7 @@
 </p>
 <h1> <img height="137px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" /> is the answer !! ..</h1> 
   <br/>
-  <br/>
- <p align="center">
-  Proudly 1337's And 42Network Student
 
-</p>
- <p align="center">
-  <img alt="ViewCount" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" />
-
-</p>
   
 
 
