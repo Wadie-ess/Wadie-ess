@@ -10,7 +10,7 @@
 * UX/UI design 
 
  <br/>
-<h2> 🌀  my github stat <h2>
+<h2> 🌀  My Github Stat <h2>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
     </p>
