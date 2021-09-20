@@ -66,8 +66,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
-[![alt text][3.1]][3]
 [![alt text][4.1]][4]
+[![alt text][3.1]][3]
 [![alt text][5.1]][5]
 
 
@@ -80,7 +80,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 [1.1]: https://pics.freeicons.io/uploads/icons/png/3848290321556105338-24.png (twitter)
 [2.1]: https://pics.freeicons.io/uploads/icons/png/19042250241579774616-24.png (insta)
 [3.1]: https://pics.freeicons.io/uploads/icons/png/1803389361561032685-24.png (dribble)
-[4.1]: https://pics.freeicons.io/uploads/icons/png/13702699181561032680-24.png (git)
+[4.1]: https://pics.freeicons.io/uploads/icons/png/15792152941556105325-24.png (LinkedIn)
 [5.1]: https://pics.freeicons.io/uploads/icons/png/4957984901556105311-24.png (behance)
 
 
@@ -94,7 +94,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 [1]: https://twitter.com/Wa__Die
 [2]: https://www.instagram.com/wadiee___/
 [3]: https://dribbble.com/wadieess
-[4]: https://github.com/Wadie-ess
+[4]: https://www.linkedin.com/in/ouadia-essendoubi-5b8745201/
 [5]: https://www.behance.net/wadieessendoubi
 
 </p>
