@@ -4,7 +4,6 @@
 
 ## :computer: Technologies I Love
 * Flutter
-* Machine Learning
 * Data Science
 * Frontend and Backend Web Development
 * UX/UI design 
