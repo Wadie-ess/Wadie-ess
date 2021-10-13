@@ -6,6 +6,7 @@
 * Mobile App development 
 * Data Science
 * Frontend and Backend Web Development
+* low level code
 * UX/UI design 
 
  <br/>
