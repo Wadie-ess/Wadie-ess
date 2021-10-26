@@ -22,6 +22,10 @@
 
 </p>
 <h1> <img height="137px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png" /> is the answer !! ..</h1> 
+  <p align="center">
+        <img height="137px" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" /> <img height="137px" src="https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=oessendo" />
+    </p>
+
   <br/>
 
   
