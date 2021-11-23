@@ -23,7 +23,7 @@
 </p>
 <h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> is the answer !! ..</h1> 
   <p align="center">
-        <img height="137px" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" /> <img height="137px" src="https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=false&login=oessendo" />
+        <img height="137px" src="https://badge42.herokuapp.com/api/stats/oessendo?privacyEmail=true" />
     </p>
 
   <br/>
