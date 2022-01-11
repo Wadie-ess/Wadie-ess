@@ -3,7 +3,7 @@
 
 
 ## :computer: Technologies I Love
-* Mobile App development 
+* Mobile App Engineering 
 * Data Science
 * Frontend and Backend Web Development
 * low level code
