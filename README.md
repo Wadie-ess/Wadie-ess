@@ -65,14 +65,12 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
-<h1>YOU CAN FOLLOW ME ON</h1> 
-<p align="center">
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][4.1]][4]
-[![alt text][3.1]][3]
-[![alt text][5.1]][5]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Wa__Die" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaazorkane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ouadia-essendoubi-5b8745201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaazorkane" height="30" width="40" /></a>
+<a href="https://dribbble.com/wadieess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drovennn" height="30" width="40" /></a>
+</p>
 
 
 
