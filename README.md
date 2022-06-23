@@ -20,8 +20,14 @@
  <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
 
+
+<h2> 🧑🏻‍💻  My Schools <h2>
+<!-- <h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> IS THE ANSWER !! ..</h1>  -->
+ <p float="left" align="center" >
+  <img src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" width="100" />
+  <img src="https://www.rekrute.com/en/rekrute/file/jobOfferLogo/jobOfferId/134244" width="100" /> 
+  <img height="100px" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" width="100" />
 </p>
-<h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> IS THE ANSWER !! ..</h1> 
   <p align="center">
         <img height="240px" src="https://badge.mediaplus.ma/greenbinary/oessendo?image=off"/>
     </p>
