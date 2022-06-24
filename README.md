@@ -12,10 +12,10 @@
  <br/>
 <h2> 🌀  My Github Stat <h2>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true&theme=prussian" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=prussian" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=prussian" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
     </p>
  <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
@@ -43,12 +43,13 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
+ <p align="center">
  
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+   <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
@@ -64,6 +65,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  </p>
 </p>
 
 <!-- Your hits or visitors
@@ -72,7 +74,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/Wa__Die" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaazorkane" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ouadia-essendoubi-5b8745201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaazorkane" height="30" width="40" /></a>
 <a href="https://dribbble.com/wadieess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drovennn" height="30" width="40" /></a>
