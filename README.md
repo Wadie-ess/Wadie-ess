@@ -21,11 +21,11 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
 
 
-<h2> 🧑🏻‍💻  My Schools <h2>
+<h2> 🧑🏻‍💻 Education <h2>
 <!-- <h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> IS THE ANSWER !! ..</h1>  -->
  <p float="left" align="center" >
-  <img src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" width="100" />
-  <img src="https://efcmd.ma/wp-content/uploads/2019/10/UM6P-221-2-1.png" width="100" /> 
+  <img height="100px"src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" width="100" />
+  <img height="100px" src="https://cyberprogramregistration.um6p.ma/form/img/logo-um6p.png" width="180" /> 
   <img height="100px" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" width="100" />
 </p>
   <p align="center">
