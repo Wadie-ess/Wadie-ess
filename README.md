@@ -28,7 +28,7 @@
   <img height="100px" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" width="100" />
 </p>
   <p align="center">
-        <img height="240px" src="https://badge.mediaplus.ma/greenbinary/oessendo?image=off"/>
+        <img src="/greenbinary.svg" alt="Darkblue" title="Darkblue" />
     </p>
 
   <br/>
