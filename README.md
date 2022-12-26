@@ -7,9 +7,6 @@
 * Frontend and Backend Web Development
 * low level code
 * UX/UI design 
-  <p align="center">
-      <a href="https://stardev.io/developers/Wadie-ess"><img alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" /></a>  
-    </p>
 
 
  <br/>
@@ -80,6 +77,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 
+
 <h3 align="left">Get in Touch:</h3>
 <p align="center">
 <a href="https://twitter.com/Wa__Die" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaazorkane" height="30" width="40" /></a>
@@ -87,7 +85,11 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <a href="https://dribbble.com/wadieess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drovennn" height="30" width="40" /></a>
 </p>
 
-
+  <p align="center">
+    <img height="137px" href="https://stardev.io/developers/Wadie-ess"><img height="125px" alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" />
+    
+<!--       <a href="https://stardev.io/developers/Wadie-ess"><img alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" /></a>  
+    </p> -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
