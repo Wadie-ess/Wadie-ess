@@ -7,6 +7,10 @@
 * Frontend and Backend Web Development
 * low level code
 * UX/UI design 
+  <p align="center">
+      <a href="https://stardev.io/developers/Wadie-ess"><img alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" /></a>  
+    </p>
+
 
  <br/>
 <h2> 🌀  My Github Stat <h2>
