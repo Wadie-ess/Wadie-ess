@@ -38,7 +38,7 @@
 
 
  </p>
-  <h3 align="left">My Competitive Programming Profiles:</h3>
+  <h3 align="left">Competitive Programming Profiles:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/OUADIAESSENDOUBI?hr_r=1" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="alaazorkane" height="25" width="90" /></a>
 <a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/1024px-CodinGame_Logo.svg.png?20160726213433" alt="alaazorkane" height="30" width="90" /></a>
