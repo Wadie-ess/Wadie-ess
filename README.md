@@ -2,7 +2,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 
-## :computer: Technologies I Love
+### :computer: Technologies I Love
 * Mobile Apps Engineering 
 * Frontend and Backend Web Development
 * low level code
@@ -10,7 +10,7 @@
 
 
  <br/>
-<h2> 🌀  My Github Stat <h2>
+<h3> 🌀  My Github State <h3>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
     </p>
@@ -21,7 +21,7 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
 
 
-<h2> 🧑🏻‍💻 Education <h2>
+<h3> 🧑🏻‍💻 Education <h3>
 <!-- <h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> IS THE ANSWER !! ..</h1>  -->
  <p float="left" align="center" >
   <img height="100px"src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" width="100" />
@@ -37,13 +37,7 @@
   
 
 
- </p>
-  <h3 align="left">Competitive Programming Profiles:</h3>
-<p align="center">
-<a href="https://www.hackerrank.com/OUADIAESSENDOUBI?hr_r=1" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="alaazorkane" height="25" width="90" /></a>
-<a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/1024px-CodinGame_Logo.svg.png?20160726213433" alt="alaazorkane" height="30" width="90" /></a>
-<a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/916px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="drovennn" height="25" width="90" /></a>
-</p>
+
  
  <h3> Languages and Tools</h3> 
 
@@ -83,7 +77,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
-
+ </p>
+  <h3 align="left">Competitive Programming Profiles</h3>
+<p align="center">
+<a href="https://www.hackerrank.com/OUADIAESSENDOUBI?hr_r=1" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="alaazorkane" height="25" width="90" /></a>
+<a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/1024px-CodinGame_Logo.svg.png?20160726213433" alt="alaazorkane" height="30" width="90" /></a>
+<a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/916px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="drovennn" height="25" width="90" /></a>
+</p>
 
 <h3 align="left">Get in Touch:</h3>
 <p align="center">
