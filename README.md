@@ -15,7 +15,7 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
     </p>
  <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
@@ -80,9 +80,8 @@ Both apis are in trouble due to the number of requests, if you know any other to
  </p>
   <h3 align="left">Competitive Programming Profiles</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/OUADIAESSENDOUBI?hr_r=1" target="blank"><img align="center" src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" alt="alaazorkane" height="25" width="90" /></a>
-<a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/CodinGame_Logo.svg/1024px-CodinGame_Logo.svg.png?20160726213433" alt="alaazorkane" height="30" width="90" /></a>
-<a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/916px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="drovennn" height="25" width="90" /></a>
+<a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://cdn.featuredcustomers.com/Company.logo_medium/CodinGame_logo.svg.png" alt="alaazorkane" height="30" width="100" /></a>
+<a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/916px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="drovennn" height="25" width="100" /></a>
 </p>
 
 <h3 align="left">Get in Touch:</h3>
