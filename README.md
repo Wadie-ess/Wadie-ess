@@ -12,10 +12,10 @@
  <br/>
 <h3> 🌀  My Github State <h3>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true&theme=transparent" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Wadie-ess&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadie-ess&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
     </p>
  <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
