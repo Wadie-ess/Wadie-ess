@@ -2,7 +2,7 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 
-### :computer: Technologies I Love
+### Technologies I Love
 * Mobile Apps Engineering 
 * Frontend and Backend Web Development
 * low level code
@@ -10,7 +10,6 @@
 
 
  <br/>
-<h3> 🌀  My Github State <h3>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Wadie-ess&hide_border=true&theme=transparent" />
     </p>
@@ -21,13 +20,14 @@
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Wadie-ess/Wadie-ess.svg" />
 
 
-<h3> 🧑🏻‍💻 Education <h3>
 <!-- <h1> <img height="137px" src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" /> IS THE ANSWER !! ..</h1>  -->
- <p float="left" align="center" >
+<!--  <p float="left" align="center" >
   <img height="100px"src="https://miro.medium.com/fit/c/262/262/1*uvFfoFvPeLyRbkj62tbnGg.png" width="100" />
   <img height="100px" src="https://cyberprogramregistration.um6p.ma/form/img/logo-um6p.png" width="180" /> 
   <img height="100px" src="https://um6p.online/uploads/1/2021-03/um6p_1337.png" width="100" />
-</p>
+</p> -->
+ 
+ 
   <p align="center">
         <img src="https://badge.mediaplus.ma/greenbinary/oessendo" alt="Darkblue" title="Darkblue" />
     </p>
@@ -38,8 +38,7 @@
 
 
 
- 
- <h3> Languages and Tools</h3> 
+ ### Languages and Tools
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -84,7 +83,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 <a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/916px-LeetCode_Logo_black_with_text.svg.png?20200122084501" alt="drovennn" height="25" width="100" /></a>
 </p>
 
-<h3 align="left">Get in Touch:</h3>
+ ### Get in Touch
 <p align="center">
 <a href="https://twitter.com/Wa__Die" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaazorkane" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ouadia-essendoubi-5b8745201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaazorkane" height="30" width="40" /></a>
