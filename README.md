@@ -4,9 +4,9 @@
 
 ### Technologies I Love
 * Mobile Apps Engineering 
-* Frontend and Backend Web Development
-* low level code
-* UX/UI design 
+* Problem Solving
+* Low level coding
+* UX / UI design 
 
 
  <br/>
