@@ -28,9 +28,9 @@
 </p> -->
  
  
-  <p align="center">
+  <!-- <p align="center">
         <img src="https://badge.mediaplus.ma/greenbinary/oessendo" alt="Darkblue" title="Darkblue" />
-    </p>
+    </p> -->
 
   <br/>
 
@@ -79,9 +79,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
  </p>
  
   <h3 align="left">Competitive Programming Profiles</h3>
-    <p align="center">
+    <!-- <p align="center">
         <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=Wadieess&theme=dark" alt="Darkblue" title="Darkblue" />
-    </p>
+    </p> -->
 <p align="center">
 <a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/Codingame_-_Logo_-_Full.png" alt="alaazorkane" height="20" width="100" /></a>
 <a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/LeetCode_Logo_black_with_text%201.png" alt="drovennn" height="25" width="100" /></a>
