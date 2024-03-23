@@ -38,54 +38,22 @@
 
 
 
- ### Languages and Tools
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
- <p align="center">
- 
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-   <p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-      <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  </p>
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
- </p>
  
   <h3 align="left">Competitive Programming Profiles</h3>
     <!-- <p align="center">
         <img src="https://stats-cards-hxx2.vercel.app/api/leetcode/?username=Wadieess&theme=dark" alt="Darkblue" title="Darkblue" />
     </p> -->
 <p align="center">
-<a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/Codingame_-_Logo_-_Full.png" alt="alaazorkane" height="20" width="100" /></a>
-<a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/LeetCode_Logo_black_with_text%201.png" alt="drovennn" height="25" width="100" /></a>
+    <a href="https://leetcode.com/wadieess/" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/LeetCode_Logo_black_with_text%201.png" alt="drovennn" height="28" width="110" /></a>
+    <!-- Add space here -->
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- Add space here -->
+    <a href="https://www.codingame.com/profile/c279d4fe2750fe14eff5c2f7004443fc8197093" target="blank"><img align="center" src="https://github.com/Wadie-ess/Wadie-ess/blob/main/Codingame_-_Logo_-_Full.png" alt="alaazorkane" height="20" width="100" /></a>
 </p>
+
+
 
  ### Get in Touch
 <p align="center">
@@ -99,11 +67,15 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
  
  
-  <p align="center">
-    <img height="137px" href="https://stardev.io/developers/Wadie-ess"><img height="125px" alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" />
-    
-<!--       <a href="https://stardev.io/developers/Wadie-ess#country-badge"><img alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" /></a>  
-    </p> -->
+  
+<p align="center">
+    <a href="https://stardev.io/developers/Wadie-ess">
+        <img height="137px" alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" style="border-radius: 50%;" />
+    </a>
+</p>
+
+
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
