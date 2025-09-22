@@ -67,12 +67,14 @@
 
  
  
-  
 <p align="center">
-    <a href="https://stardev.io/developers/Wadie-ess">
+  <a href="https://stardev.io/developers/Wadie-ess"><img alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/global.svg" /></a> 
+<!--     <a href="https://stardev.io/developers/Wadie-ess">
         <img height="137px" alt="Check out Wadie-ess's profile on stardev.io" src="https://stardev.io/developers/Wadie-ess/badge/languages/country.svg" style="border-radius: 50%;" />
-    </a>
+    </a> -->
 </p>
+
+
 
 
 
